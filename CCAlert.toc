@@ -1,0 +1,8 @@
+## Interface: 110007
+## Title: CC Alert
+## Notes: Displays alerts for CC casts from enemies.
+## Author: enjoymygripz
+## Version: 1.0.0
+## SavedVariables: CCAlertSettings
+
+CCAlert.lua
